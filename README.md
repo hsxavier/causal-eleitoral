@@ -15,8 +15,9 @@ de campanha eleitoral na quantidade de votos obtidos?
     |   ├── brutos              <- Dados brutos, originais
     |   ├── limpos              <- Dados limpos, corrigidos, padronizados
     |   └── processados         <- Dados derivados 
-    └── analises                <- Análises feitas (notebooks de python)
-
+    ├── analises                <- Análises feitas (notebooks de python)
+    └── dados.tar.gz            <- Pasta de dados acima comprimida
+	
 ## Descrição dos notebooks
 
 ### `analises/02_intro-to-causal-graphs.ipynb`
