@@ -25,6 +25,9 @@ Uma explocação do funcionamento de estruturas básicas dos grafos causais (e.g
 a partir de dados sintéticos lineares. Também aplicamos o método do ajuste no caso de modelos lineares gaussianos.
 [[LINK]](analises/02_intro-to-causal-graphs.ipynb)
 
+**AVISO:** Este notebook foi elaborado quando estávamos iniciando os estudos sobre inferência causal, então alguns termos
+e conceitos podem estar sendo utilizados de maneira inapropriada.
+
 ### `analises/20_analise-verba-votos.ipynb`
 
 Aplicação da teoria a um problema concreto e real: a medição do efeito causal médio do valor obtido para financiamento 
