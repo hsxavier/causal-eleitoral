@@ -7,3 +7,9 @@ analises/40_analise-seguidores-votos.ipynb
 
 # Lixos:
 analises/.ipynb_checkpoints
+
+# Materiais criados na execução do projeto:
+env/
+analises/brass/
+analises/xavy/
+dados.tar
