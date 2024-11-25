@@ -1,0 +1,9 @@
+# Arquivos de dados descomprimidos:
+dados/
+
+# Notebooks locais:
+analises/05_prototipando-captura.ipynb
+analises/40_analise-seguidores-votos.ipynb
+
+# Lixos:
+analises/.ipynb_checkpoints
